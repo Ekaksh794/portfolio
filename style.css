@@ -1,0 +1,36 @@
+h1{
+    color:chocolate;
+}
+/*{
+border:solid;
+}*/
+* {
+text-align:center;
+}
+.header{
+    background-color:cadetblue;
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.grid2{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.grid3{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.footer{
+    display:flex;
+    justify-content: first baseline;
+}
+.bg{
+    background-color: crimson;
+}
